@@ -1,0 +1,23 @@
+{
+  "name": "frontend-project",
+  "version": "1.0.0",
+  "description": "Test project with intentional vulnerabilities for security scanning validation",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@dabh/diagnostics": "^2.0.8",
+    "@rc-component/portal": "^1.1.2",
+    "@rushstack/terminal": "^0.15.2",
+    "@sequelize/mariadb": "^7.0.0-alpha.47",
+    "clone": "^2.1.2",
+    "ajv": "5.5.2",
+    "merge": "1.2.0",
+    "moment": "2.19.2",
+    "marked": "0.3.6"
+  }
+}
