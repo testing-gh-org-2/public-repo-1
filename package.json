@@ -10,10 +10,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@dabh/diagnostics": "^2.0.8",
-    "@rc-component/portal": "^1.1.2",
-    "@rushstack/terminal": "^0.15.2",
-    "@sequelize/mariadb": "^7.0.0-alpha.47",
-    "clone": "^2.1.2"
+    "clone": "^2.1.2",
+    "lodash": "^4.17.21",
+    "axios": "^0.21.1"
   }
 }
