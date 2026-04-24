@@ -10,8 +10,23 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "clone": "^2.1.2",
-    "lodash": "^4.17.21",
-    "axios": "^0.21.1"
+    "ajv": "6.12.2",
+    "axios": "0.21.0",
+    "clone": "2.1.2",
+    "marked": "0.7.0",
+    "xmldom": "0.1.27",
+    "validator": "10.8.0",
+    "dot-prop": "4.2.0",
+    "@babel/core": "7.12.0",
+    "@babel/traverse": "7.12.0",
+    "terser-webpack-plugin": "4.2.0",
+    "semver": "5.7.1",
+    "@hapi/hoek": "9.3.0",
+    "ansi-regex": "5.0.0",
+    "trim": "0.0.1",
+    "path-parse": "1.0.6",
+    "cross-fetch": "3.0.4",
+    "node-forge": "0.10.0",
+    "ws": "7.4.0"
   }
 }
