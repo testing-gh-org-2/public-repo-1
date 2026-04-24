@@ -12,10 +12,6 @@
   "dependencies": {
     "ajv": "6.12.2",
     "axios": "0.21.0",
-    "clone": "2.1.2",
-    "marked": "0.7.0",
-    "xmldom": "0.1.27",
-    "node-forge": "0.10.0",
     "ws": "7.4.0"
   }
 }
