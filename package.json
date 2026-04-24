@@ -12,6 +12,8 @@
   "dependencies": {
     "ajv": "6.12.2",
     "axios": "0.21.0",
-    "ws": "7.4.0"
+    "ws": "7.4.0",
+    "@sequelize/mariadb": "^7.0.0-alpha.47",
+    "@rushstack/terminal": "^0.15.2"
   }
 }
