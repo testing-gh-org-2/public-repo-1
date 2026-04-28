@@ -10,5 +10,22 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "trim": "^0.0.1",
+    "trim-newlines": "^3.0.0",
+    "tunnel-agent": "0.6.0",
+    "underscore": "1.9.1",
+    "underscore.string": "3.3.4",
+    "union-value": "1.0.0",
+    "url-parse": "1.4.7",
+    "util-deprecate": "1.0.2",
+    "uuid": "3.3.3",
+    "validator": "10.11.0",
+    "webpack": "^4.41.5",
+    "ws": "7.4.5",
+    "xml2js": "0.4.22",
+    "xmldom": "^0.5.0",
+    "xmlhttprequest-ssl": "1.5.5",
+    "yargs": "15.3.1",
+    "yargs-parser": "18.1.3"
   }
 }
